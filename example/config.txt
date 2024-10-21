@@ -1,0 +1,2 @@
+Prefix plugins/Uniq2FASTA/example/
+Plugin Uniq2FASTA inputfile SR_uniq.seq outputfile SR_uniq.fa
